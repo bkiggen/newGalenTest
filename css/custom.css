@@ -15,12 +15,12 @@
 }
 
 .parallax {
-  position: relative;
+  /* position: relative;
   width: 100vw;
   height: 100vh;
   overflow-x: hidden;
   overflow-y: scroll;
-  -webkit-overflow-scrolling: touch;
+  -webkit-overflow-scrolling: touch; */
 }
 
 .mountains {

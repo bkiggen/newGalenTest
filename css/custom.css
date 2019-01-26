@@ -19,7 +19,7 @@
   width: 100vw;
   height: 100vh;
   overflow-x: hidden;
-  overflow-y: auto;
+  overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
 }
 
@@ -52,7 +52,7 @@
 .peak.p1,
 .logo.p1 {
   -webkit-transform: translateZ(-25px) scale(26);
-  transform: translateZ(-25px) scale(26);
+  transform: translateZ(-29px) scale(35);
 }
 
 .peak.p2,

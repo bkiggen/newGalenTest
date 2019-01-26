@@ -16,14 +16,11 @@
 
 .parallax {
   position: relative;
-  /* -webkit-perspective: 1px;
-  perspective: 1px;
-  -webkit-perspective-origin: 50% 50%;
-  perspective-origin: 50% 50%; */
   width: 100vw;
   height: 100vh;
   overflow-x: hidden;
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .mountains {
